@@ -1,5 +1,166 @@
 {
   "audio/victory.mp3": "emand_edroff-victory-bell-success-fanfare-576275.mp3 — provided by user",
   "audio/defeat.mp3": "fail-wha-wha-version.mp3 — provided by user",
-  "audio/barricade-hit.mp3": "khoamthanh-punch-knuckle-blunt-medium-503895.mp3 — provided by user"
+  "audio/barricade-hit.mp3": "khoamthanh-punch-knuckle-blunt-medium-503895.mp3 — provided by user",
+  "audio/laserSmall_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserSmall_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserSmall_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserSmall_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserSmall_002.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserSmall_002.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserRetro_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserRetro_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserRetro_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserRetro_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserLarge_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserLarge_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/laserLarge_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/laserLarge_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/impactMetal_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/impactMetal_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/impactMetal_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/impactMetal_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/impactMetal_002.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/impactMetal_002.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/slime_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/slime_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/slime_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/slime_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/computerNoise_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/computerNoise_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/computerNoise_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/computerNoise_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/forceField_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/forceField_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/forceField_001.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/forceField_001.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/lowFrequency_explosion_000.mp3": {
+    "author": "Kenney",
+    "pack": "Sci-Fi Sounds",
+    "source": "https://opengameart.org/content/sci-fi-sounds",
+    "download": "https://opengameart.org/sites/default/files/sci-fi_sounds.zip",
+    "original": "Audio/lowFrequency_explosion_000.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization; no generated sound"
+  },
+  "audio/battle-music.mp3": {
+    "title": "8-Bit Battle Loop",
+    "author": "Theodore Kerr (Wolfgang_)",
+    "source": "https://opengameart.org/content/8-bit-battle-loop",
+    "download": "https://opengameart.org/sites/default/files/8BitBattleLoop_0.ogg",
+    "license": "CC0 1.0",
+    "processing": "MP3 encoding and loudness normalization"
+  }
 }
