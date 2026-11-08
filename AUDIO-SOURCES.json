@@ -162,5 +162,26 @@
     "download": "https://opengameart.org/sites/default/files/8BitBattleLoop_0.ogg",
     "license": "CC0 1.0",
     "processing": "MP3 encoding and loudness normalization"
+  },
+  "audio/dog-growl.mp3": {
+    "author": "bonebrah",
+    "source": "https://opengameart.org/content/dog-growl",
+    "original": "dog-growl.ogg",
+    "license": "CC0 1.0",
+    "processing": "High-pass noise reduction, loudness normalization and MP3 encoding; no synthesis"
+  },
+  "audio/dog-bark.mp3": {
+    "author": "pauliuw",
+    "source": "https://opengameart.org/content/dog-sounds",
+    "original": "Dog Bark 2.wav",
+    "license": "CC0 1.0",
+    "processing": "High-pass noise reduction, loudness normalization and MP3 encoding; no synthesis"
+  },
+  "audio/dog-bark-2.mp3": {
+    "author": "pauliuw",
+    "source": "https://opengameart.org/content/dog-sounds",
+    "original": "Dog Bark 3.wav",
+    "license": "CC0 1.0",
+    "processing": "High-pass noise reduction, loudness normalization and MP3 encoding; no synthesis"
   }
 }
